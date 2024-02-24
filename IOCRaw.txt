@@ -2,7 +2,7 @@ www.google.com
 
 111.222.333.444
 
-C:\Users\rrtx2\OneDrive\Documents\PythonProjects\Splunk IOC Ripper\IOCRAW.txt
+C:\Users\Workstation\OneDrive\Documents\PythonProjects\Splunk IOC Ripper\IOCRAW.txt
 
 Test@Google.com
 
