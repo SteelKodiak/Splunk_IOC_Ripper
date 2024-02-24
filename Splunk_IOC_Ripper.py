@@ -140,7 +140,7 @@ def initial_question():
     
       # Check if the user wants to quit the function
     if "0" in userinput:
-        return
+        quit()
 
     # Validate and process the input
     validchoices = ['1', '2', '3','0']
