@@ -1,7 +1,9 @@
 # Splunk_IOC_Ripper
 
 ## Introduction
-Splunk_IOC_Ripper is a powerful Python tool designed to streamline the process of identifying and extracting Indicators of Compromise (IOCs) from a variety of sources. With an ability to handle even the most unstructured and cluttered data, it automatically parses and categorizes IOCs such as SHA-256 hashes, MD-5 hashes, IP addresses, URLs, domains, and emails into a clean, user-friendly format. 
+Splunk_IOC_Ripper is a powerful Python tool designed to streamline the process of identifying and extracting Indicators of Compromise (IOCs) from a variety of sources. 
+
+With an ability to handle even the most unstructured and cluttered data, it automatically parses and categorizes IOCs such as SHA-256 hashes, MD-5 hashes, IP addresses, URLs, domains, and emails into a clean, user-friendly format. 
 
 This makes it an invaluable resource for cybersecurity analysts and enthusiasts looking to enhance their Splunk data analysis workflows.
 
