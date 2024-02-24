@@ -3,6 +3,7 @@ PURPOSE: This script will extract specified IOC's from a document or webpage usi
 will now be able to specifiy a document and have an immediate output to paste into Splunk as oppossed to copy and pasting each IOC from a document or
 webpage.
 """
+# AUTHOR: https://github.com/SqlProgrammer55
 
 import pandas as pd
 from datetime import datetime
