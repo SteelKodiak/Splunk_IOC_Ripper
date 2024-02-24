@@ -1,0 +1,11 @@
+pip install pandas 
+pip install datetime
+pip install re
+pip install requests
+pip install PyMuPDF
+pip install fitz
+pip install os
+pip install schedule 
+pip install urllib3
+pip install Pyarrow
+
